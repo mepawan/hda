@@ -3,7 +3,7 @@
  * The header for our theme
  *
  */
-
+global $hdaThemOptions;
 ?><!DOCTYPE html>
 <html itemscope itemtype="http://schema.org/AutoDealer" lang="en" class="no-js">
 <head>
@@ -70,7 +70,9 @@
   <div class="main">
     <button id="mobile-nav-trigger"><i class="icon-menu"></i></button>
     <div id="logo" itemprop="legalName">
-      <a href="/"><img src="<?php echo get_template_directory_uri();?>/assets/images/hda-logo.png" alt="Texas Direct Auto"></a>
+		<a href="<?php home_url();?>">
+			<img src="<?php if(isset($hdaThemOptions->theme_options['logo']) && $hdaThemOptions->theme_options['logo']) { echo $hdaThemOptions->theme_options['logo'];} else { echo get_template_directory_uri().'/assets/images/hda-logo.png';}?>" alt="Texas Direct Auto">
+		</a>
     </div>
     <nav>
       <ul>
