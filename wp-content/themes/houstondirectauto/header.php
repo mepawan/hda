@@ -75,14 +75,15 @@ global $hdaThemOptions;
 		</a>
     </div>
     <nav>
-      <ul>
+	<?php wp_nav_menu( array( 'theme_location' => 'main-menu' ) ); ?>
+      <!--ul>
         <li><a href="#introduction">Find A Car</a></li>
         <li><a href="#suyc">Sell Us Your Car</a></li>
         <li><a href="#finance">Finance</a></li>
         <li><a href="#why">Why TDA?</a></li>
         <li><a href="#locations">Locations</a></li>
         <li id="need_help"><a href="javascript:void(0)"><i class="icon-live-help"></i> Need Help?</a></li>
-      </ul>
+      </ul-->
     </nav>
   </div>
 </header>

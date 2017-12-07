@@ -5,6 +5,8 @@ class HdaThemeOptions{
 	function __construct(){
 		add_action("admin_menu", array($this,"add_theme_menu_item"));
 		add_action('admin_enqueue_scripts', array($this,'hda_theme_options_enqueue_scripts'));
+		add_action( 'widgets_init', array($this,'hda_widgets_init') );
+		add_action( 'init', array($this,'register_my_menus') );
 		$this->theme_options = get_option( 'hda_theme_options' );
 	}
 	function theme_options_page(){
@@ -109,6 +111,27 @@ class HdaThemeOptions{
 			wp_enqueue_script('wptuts-upload');
 		}
 	}
+	
+	function hda_widgets_init() {
+
+		register_sidebar( array(
+			'name' => 'Right Sidebar',
+			'id' => 'right-sidebar',
+			'before_widget' => '<div class="right-sidebar-start">',
+			'after_widget' => '</div>',
+			'before_title' => '<h2 class="rounded">',
+			'after_title' => '</h2>',
+		) );
+	}
+	function register_my_menus() {
+	  register_nav_menus(
+		array(
+			'main-menu' => __( 'Main Menu' ),
+			'footer-menu' => __( 'Footer Menu' )
+		)
+	  );
+	}
+	
 	
 }
 global $hdaThemOptions;
