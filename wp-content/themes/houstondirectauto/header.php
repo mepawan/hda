@@ -22,10 +22,10 @@ global $hdaThemOptions;
     <link rel="apple-touch-icon" sizes="120x120" href="//www.texasdirectauto.com/static/img/touch/apple-touch-icon-120x120.png" />
     <link rel="apple-touch-icon" sizes="144x144" href="//www.texasdirectauto.com/static/img/touch/apple-touch-icon-144x144.png" />
     <link rel="apple-touch-icon" sizes="152x152" href="//www.texasdirectauto.com/static/img/touch/apple-touch-icon-152x152.png" />
-    
+    <link rel="stylesheet" type="text/css" href="<?php echo home_url();?>/wp-content/themes/houstondirectauto/assets/css/bootstrap.css" />
 	<?php wp_head(); ?>
 
- <script type="text/javascript">
+ <script type= "text/javascript">
   WebFontConfig = {
     google: { families: [ 'Open+Sans:400,300,600:latin', 'Oswald:400,300:latin', 'Just+Another+Hand::latin' ] }
   };

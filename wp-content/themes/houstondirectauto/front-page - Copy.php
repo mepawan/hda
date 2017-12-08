@@ -59,68 +59,755 @@ get_header(); ?>
       </section>
     </div>
   </section>
-  
-  <section class="sell-us-your-car">
-		<div class="wrapper full">
-			<div class="row">
-				<div class="col-xs-6 col-sm-4 col-md-2">
-					<a href="https://www.houstondirectauto.com/used-cars-houston-tx?standardbody=2D+coupe">
-						<img src="<?php echo home_url();?>/wp-content/themes/houstondirectauto/images/inv-d01.png" alt="Coupe in Houston TX" class="img-responsive img-center" title="Coupe in Houston TX">						<h4>Coupe</h4>
-					</a>
-				</div>
-				<div class="col-xs-6 col-sm-4 col-md-2">
-					<a href="https://www.houstondirectauto.com/used-cars-houston-tx?standardbody=2D+convertible">
-						<img src="<?php echo home_url();?>/wp-content/themes/houstondirectauto/images/inv-d05.png" alt="Convertible in Houston TX" class="img-responsive img-center" title="Convertible in Houston TX">						<h4>Convertible</h4>
-					</a>
-				</div>
-				<div class="col-xs-6 col-sm-4 col-md-2">
-					<a href="https://www.houstondirectauto.com/used-cars-houston-tx?standardbody=passenger+van">
-						<img src="<?php echo home_url();?>/wp-content/themes/houstondirectauto/images/inv-d04.png" alt="Van in Houston TX" class="img-responsive img-center" title="Van in Houston TX">						<h4>Van</h4>
-					</a>
-				</div>
-				<div class="col-xs-6 col-sm-4 col-md-2">
-					<a href="https://www.houstondirectauto.com/used-cars-houston-tx?standardbody=4D+sedan">
-						<img src="<?php echo home_url();?>/wp-content/themes/houstondirectauto/images/inv-d01.png" alt="Sedan in Houston TX" class="img-responsive img-center" title="Sedan in Houston TX">						<h4>Sedan</h4>
-					</a>
-				</div>
-				<div class="col-xs-6 col-sm-4 col-md-2">
-					<a href="https://www.houstondirectauto.com/used-cars-houston-tx?standardbody=4D+Sport+Utility">
-						<img src="<?php echo home_url();?>/wp-content/themes/houstondirectauto/images/inv-d02.png" alt="SUV in Houston TX" class="img-responsive img-center" title="SUV in Houston TX">						<h4>SUV</h4>
-					</a>
-				</div>
-				<div class="col-xs-6 col-sm-4 col-md-2">
-					<a href="https://www.houstondirectauto.com/used-cars-houston-tx?q=truck">
-						<img src="<?php echo home_url();?>/wp-content/themes/houstondirectauto/images/inv-d03.png" alt="Truck in Houston TX" class="img-responsive img-center" title="Truck in Houston TX">						<h4>Truck</h4>
-					</a>
-				</div>
-			</div>
-		</div>
-	</section>
-  
-	<section class="finance" >
-		<div class="wrapper full">
-			<div class="row">
-				<div class="col-xs-12 col-md-6">
-					<h1>Houston's #1 Used Car Dealer</h1>
-					<p>We have the used cars, trucks, and SUVs that you have been looking for. We even have a large number of European luxury vehicles in stock and ready to go. Our cars are affordable, and with our array of financing options including buy here pay here, we can get you financed with affordable payments today. At Houston Direct Auto, we work with you, not against you. That means when you buy a car from Houston Direct Auto, you get exactly what you want every time. If you are ready for fast approval and honest sales, then let us get to work for you!</p><p>We can’t wait to work with you. We are a Houston team that has been operating in this area for nearly a decade. With our experience and our commitment to doing right by our customers, you will always have a wonderful car-buying experience when you shop with Houston Direct Auto. Come to see us today or take the time to browse our online inventory right now.</p>					<p><a href="https://www.houstondirectauto.com/about-houston-direct-auto-in-houston-tx">Read More</a></p>
-				</div>
-				<div class="col-xs-12 col-md-6">
-					<div class="map-border">
-						<div class="mod-google-map mod-google-map-responsive1">
-							<div class="content">
-								<div class="map-wrapper"><div id="map_canvas" style="height: 300px; position: relative; overflow: hidden;"><div style="height: 100%; width: 100%; position: absolute; top: 0px; left: 0px; background-color: rgb(229, 227, 223);"><div style="position: absolute; z-index: 0; left: 0px; top: 0px; height: 100%; width: 100%; padding: 0px; border-width: 0px; margin: 0px;" class="gm-style"><div style="position: absolute; z-index: 0; left: 0px; top: 0px; height: 100%; width: 100%; padding: 0px; border-width: 0px; margin: 0px; cursor: url(&quot;https://maps.gstatic.com/mapfiles/openhand_8_8.cur&quot;), default;" tabindex="0"><div style="z-index: 1; position: absolute; top: 21px; left: 94px; width: 100%;"><div style="position: absolute; left: 0px; top: 0px; z-index: 100; width: 100%;"><div style="position: absolute; left: 0px; top: 0px; z-index: 0;"><div style="position: absolute; left: 0px; top: 0px; z-index: 1; visibility: inherit;" aria-hidden="true"><div style="width: 256px; height: 256px; position: absolute; left: 24px; top: 6px;"></div><div style="width: 256px; height: 256px; position: absolute; left: 280px; top: 6px;"></div><div style="width: 256px; height: 256px; position: absolute; left: 24px; top: -250px;"></div><div style="width: 256px; height: 256px; position: absolute; left: 24px; top: 262px;"></div><div style="width: 256px; height: 256px; position: absolute; left: 280px; top: -250px;"></div><div style="width: 256px; height: 256px; position: absolute; left: 280px; top: 262px;"></div><div style="width: 256px; height: 256px; position: absolute; left: -232px; top: 6px;"></div><div style="width: 256px; height: 256px; position: absolute; left: -232px; top: -250px;"></div><div style="width: 256px; height: 256px; position: absolute; left: -232px; top: 262px;"></div><div style="width: 256px; height: 256px; position: absolute; left: 536px; top: 6px;"></div><div style="width: 256px; height: 256px; position: absolute; left: 536px; top: -250px;"></div><div style="width: 256px; height: 256px; position: absolute; left: 536px; top: 262px;"></div></div></div></div><div style="position: absolute; left: 0px; top: 0px; z-index: 101; width: 100%;"></div><div style="position: absolute; left: 0px; top: 0px; z-index: 102; width: 100%;"></div><div style="position: absolute; left: 0px; top: 0px; z-index: 103; width: 100%;"><div style="position: absolute; left: 0px; top: 0px; z-index: -1;"><div style="position: absolute; left: 0px; top: 0px; z-index: 1; visibility: inherit;" aria-hidden="true"><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: 24px; top: 6px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: 280px; top: 6px;"><canvas draggable="false" style="-moz-user-select: none; position: absolute; left: 0px; top: 0px; height: 256px; width: 256px;" height="256" width="256"></canvas></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: 24px; top: -250px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: 24px; top: 262px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: 280px; top: -250px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: 280px; top: 262px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: -232px; top: 6px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: -232px; top: -250px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: -232px; top: 262px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: 536px; top: 6px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: 536px; top: -250px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: 536px; top: 262px;"></div></div></div></div><div style="position: absolute; z-index: 0; left: 0px; top: 0px;"><div style="overflow: hidden; width: 631px; height: 300px;"><img style="width: 631px; height: 300px;" src="https://maps.googleapis.com/maps/api/js/StaticMapService.GetMapImage?1m2&amp;1i245736&amp;2i433402&amp;2e1&amp;3u12&amp;4m2&amp;1u631&amp;2u300&amp;5m5&amp;1e0&amp;5sen-US&amp;6sus&amp;10b1&amp;12b1&amp;token=113223"></div></div><div style="position: absolute; left: 0px; top: 0px; z-index: 0;"><div style="position: absolute; left: 0px; top: 0px; z-index: 1; visibility: inherit;" aria-hidden="true"><div style="position: absolute; left: 280px; top: -250px; transition: opacity 200ms ease-out 0s;"><img style="width: 256px; height: 256px; -moz-user-select: none; border: 0px none; padding: 0px; margin: 0px; max-width: none;" draggable="false" alt="" src="https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i12!2i961!3i1692!4i256!2m3!1e0!2sm!3i403099794!3m9!2sen-US!3sUS!5e18!12m1!1e68!12m3!1e37!2m1!1ssmartmaps!4e0&amp;token=60751"></div><div style="position: absolute; left: 24px; top: -250px; transition: opacity 200ms ease-out 0s;"><img style="width: 256px; height: 256px; -moz-user-select: none; border: 0px none; padding: 0px; margin: 0px; max-width: none;" draggable="false" alt="" src="https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i12!2i960!3i1692!4i256!2m3!1e0!2sm!3i403099794!3m9!2sen-US!3sUS!5e18!12m1!1e68!12m3!1e37!2m1!1ssmartmaps!4e0&amp;token=114294"></div><div style="position: absolute; left: 280px; top: 6px; transition: opacity 200ms ease-out 0s;"><img style="width: 256px; height: 256px; -moz-user-select: none; border: 0px none; padding: 0px; margin: 0px; max-width: none;" draggable="false" alt="" src="https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i12!2i961!3i1693!4i256!2m3!1e0!2sm!3i403099794!3m9!2sen-US!3sUS!5e18!12m1!1e68!12m3!1e37!2m1!1ssmartmaps!4e0&amp;token=96772"></div><div style="position: absolute; left: 24px; top: 6px; transition: opacity 200ms ease-out 0s;"><img style="width: 256px; height: 256px; -moz-user-select: none; border: 0px none; padding: 0px; margin: 0px; max-width: none;" draggable="false" alt="" src="https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i12!2i960!3i1693!4i256!2m3!1e0!2sm!3i403099794!3m9!2sen-US!3sUS!5e18!12m1!1e68!12m3!1e37!2m1!1ssmartmaps!4e0&amp;token=19244"></div><div style="position: absolute; left: -232px; top: 6px; transition: opacity 200ms ease-out 0s;"><img style="width: 256px; height: 256px; -moz-user-select: none; border: 0px none; padding: 0px; margin: 0px; max-width: none;" draggable="false" alt="" src="https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i12!2i959!3i1693!4i256!2m3!1e0!2sm!3i403099794!3m9!2sen-US!3sUS!5e18!12m1!1e68!12m3!1e37!2m1!1ssmartmaps!4e0&amp;token=101362"></div><div style="position: absolute; left: -232px; top: -250px; transition: opacity 200ms ease-out 0s;"><img style="width: 256px; height: 256px; -moz-user-select: none; border: 0px none; padding: 0px; margin: 0px; max-width: none;" draggable="false" alt="" src="https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i12!2i959!3i1692!4i256!2m3!1e0!2sm!3i403099794!3m9!2sen-US!3sUS!5e18!12m1!1e68!12m3!1e37!2m1!1ssmartmaps!4e0&amp;token=65341"></div><div style="position: absolute; left: 280px; top: 262px; transition: opacity 200ms ease-out 0s;"><img style="width: 256px; height: 256px; -moz-user-select: none; border: 0px none; padding: 0px; margin: 0px; max-width: none;" draggable="false" alt="" src="https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i12!2i961!3i1694!4i256!2m3!1e0!2sm!3i403099794!3m9!2sen-US!3sUS!5e18!12m1!1e68!12m3!1e37!2m1!1ssmartmaps!4e0&amp;token=1722"></div><div style="position: absolute; left: -232px; top: 262px; transition: opacity 200ms ease-out 0s;"><img style="width: 256px; height: 256px; -moz-user-select: none; border: 0px none; padding: 0px; margin: 0px; max-width: none;" draggable="false" alt="" src="https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i12!2i959!3i1694!4i256!2m3!1e0!2sm!3i403099794!3m9!2sen-US!3sUS!5e18!12m1!1e68!12m3!1e37!2m1!1ssmartmaps!4e0&amp;token=6312"></div><div style="position: absolute; left: 24px; top: 262px; transition: opacity 200ms ease-out 0s;"><img style="width: 256px; height: 256px; -moz-user-select: none; border: 0px none; padding: 0px; margin: 0px; max-width: none;" draggable="false" alt="" src="https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i12!2i960!3i1694!4i256!2m3!1e0!2sm!3i403099794!3m9!2sen-US!3sUS!5e18!12m1!1e68!12m3!1e37!2m1!1ssmartmaps!4e0&amp;token=55265"></div><div style="position: absolute; left: 536px; top: 6px;"><img style="width: 256px; height: 256px; -moz-user-select: none; border: 0px none; padding: 0px; margin: 0px; max-width: none;" draggable="false" alt="" src="https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i12!2i962!3i1693!4i256!2m3!1e0!2sm!3i403099794!3m9!2sen-US!3sUS!5e18!12m1!1e68!12m3!1e37!2m1!1ssmartmaps!4e0&amp;token=43229"></div><div style="position: absolute; left: 536px; top: -250px;"><img style="width: 256px; height: 256px; -moz-user-select: none; border: 0px none; padding: 0px; margin: 0px; max-width: none;" draggable="false" alt="" src="https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i12!2i962!3i1692!4i256!2m3!1e0!2sm!3i403099794!3m9!2sen-US!3sUS!5e18!12m1!1e68!12m3!1e37!2m1!1ssmartmaps!4e0&amp;token=7208"></div><div style="position: absolute; left: 536px; top: 262px;"><img style="width: 256px; height: 256px; -moz-user-select: none; border: 0px none; padding: 0px; margin: 0px; max-width: none;" draggable="false" alt="" src="https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i12!2i962!3i1694!4i256!2m3!1e0!2sm!3i403099794!3m9!2sen-US!3sUS!5e18!12m1!1e68!12m3!1e37!2m1!1ssmartmaps!4e0&amp;token=79250"></div></div></div></div><div style="z-index: 2; position: absolute; height: 100%; width: 100%; padding: 0px; border-width: 0px; margin: 0px; left: 0px; top: 0px; opacity: 0;" class="gm-style-pbc"><p class="gm-style-pbt"></p></div><div style="z-index: 3; position: absolute; height: 100%; width: 100%; padding: 0px; border-width: 0px; margin: 0px; left: 0px; top: 0px;"><div style="z-index: 1; position: absolute; height: 100%; width: 100%; padding: 0px; border-width: 0px; margin: 0px; left: 0px; top: 0px;"></div></div><div style="z-index: 4; position: absolute; top: 21px; left: 94px; width: 100%;"><div style="position: absolute; left: 0px; top: 0px; z-index: 104; width: 100%;"></div><div style="position: absolute; left: 0px; top: 0px; z-index: 105; width: 100%;"></div><div style="position: absolute; left: 0px; top: 0px; z-index: 106; width: 100%;"></div><div style="position: absolute; left: 0px; top: 0px; z-index: 107; width: 100%;"></div></div></div><div style="margin-left: 5px; margin-right: 5px; z-index: 1000000; position: absolute; left: 0px; bottom: 0px;"><a style="position: static; overflow: visible; float: none; display: inline;" target="_blank" href="https://maps.google.com/maps?ll=29.727733,-95.557099&amp;z=12&amp;t=m&amp;hl=en-US&amp;gl=US&amp;mapclient=apiv3" title="Click to see this area on Google Maps"><div style="width: 66px; height: 26px; cursor: pointer;"><img style="position: absolute; left: 0px; top: 0px; width: 66px; height: 26px; -moz-user-select: none; border: 0px none; padding: 0px; margin: 0px;" alt="" src="https://maps.gstatic.com/mapfiles/api-3/images/google4.png" draggable="false"></div></a></div><div style="background-color: white; padding: 15px 21px; border: 1px solid rgb(171, 171, 171); font-family: Roboto,Arial,sans-serif; color: rgb(34, 34, 34); box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.2); z-index: 10000002; display: none; width: 256px; height: 148px; position: absolute; left: 166px; top: 60px;"><div style="padding: 0px 0px 10px; font-size: 16px;">Map Data</div><div style="font-size: 13px;">Map data ©2017 Google</div><div style="width: 13px; height: 13px; overflow: hidden; position: absolute; opacity: 0.7; right: 12px; top: 12px; z-index: 10000; cursor: pointer;"><img style="position: absolute; left: -2px; top: -336px; width: 59px; height: 492px; -moz-user-select: none; border: 0px none; padding: 0px; margin: 0px; max-width: none;" alt="" src="https://maps.gstatic.com/mapfiles/api-3/images/mapcnt6.png" draggable="false"></div></div><div class="gmnoprint" style="z-index: 1000001; position: absolute; right: 166px; bottom: 0px; width: 121px;"><div draggable="false" style="-moz-user-select: none; height: 14px; line-height: 14px;" class="gm-style-cc"><div style="opacity: 0.7; width: 100%; height: 100%; position: absolute;"><div style="width: 1px;"></div><div style="background-color: rgb(245, 245, 245); width: auto; height: 100%; margin-left: 1px;"></div></div><div style="position: relative; padding-right: 6px; padding-left: 6px; font-family: Roboto,Arial,sans-serif; font-size: 10px; color: rgb(68, 68, 68); white-space: nowrap; direction: ltr; text-align: right; vertical-align: middle; display: inline-block;"><a style="color: rgb(68, 68, 68); text-decoration: none; cursor: pointer; display: none;">Map Data</a><span style="">Map data ©2017 Google</span></div></div></div><div class="gmnoscreen" style="position: absolute; right: 0px; bottom: 0px;"><div style="font-family: Roboto,Arial,sans-serif; font-size: 11px; color: rgb(68, 68, 68); direction: ltr; text-align: right; background-color: rgb(245, 245, 245);">Map data ©2017 Google</div></div><div class="gmnoprint gm-style-cc" style="z-index: 1000001; -moz-user-select: none; height: 14px; line-height: 14px; position: absolute; right: 95px; bottom: 0px;" draggable="false"><div style="opacity: 0.7; width: 100%; height: 100%; position: absolute;"><div style="width: 1px;"></div><div style="background-color: rgb(245, 245, 245); width: auto; height: 100%; margin-left: 1px;"></div></div><div style="position: relative; padding-right: 6px; padding-left: 6px; font-family: Roboto,Arial,sans-serif; font-size: 10px; color: rgb(68, 68, 68); white-space: nowrap; direction: ltr; text-align: right; vertical-align: middle; display: inline-block;"><a style="text-decoration: none; cursor: pointer; color: rgb(68, 68, 68);" href="https://www.google.com/intl/en-US_US/help/terms_maps.html" target="_blank">Terms of Use</a></div></div><button style="background: transparent none repeat scroll 0% 0%; border: 0px none; margin: 10px 14px; padding: 0px; position: absolute; cursor: pointer; -moz-user-select: none; width: 25px; height: 25px; overflow: hidden; display: none; top: 0px; right: 0px;" draggable="false" title="Toggle fullscreen view" aria-label="Toggle fullscreen view" type="button"><img style="position: absolute; left: -52px; top: -86px; width: 164px; height: 175px; -moz-user-select: none; border: 0px none; padding: 0px; margin: 0px;" alt="" src="https://maps.gstatic.com/mapfiles/api-3/images/sv9.png" draggable="false" class="gm-fullscreen-control"></button><div draggable="false" style="-moz-user-select: none; height: 14px; line-height: 14px; position: absolute; right: 0px; bottom: 0px;" class="gm-style-cc"><div style="opacity: 0.7; width: 100%; height: 100%; position: absolute;"><div style="width: 1px;"></div><div style="background-color: rgb(245, 245, 245); width: auto; height: 100%; margin-left: 1px;"></div></div><div style="position: relative; padding-right: 6px; padding-left: 6px; font-family: Roboto,Arial,sans-serif; font-size: 10px; color: rgb(68, 68, 68); white-space: nowrap; direction: ltr; text-align: right; vertical-align: middle; display: inline-block;"><a target="_new" title="Report errors in the road map or imagery to Google" style="font-family: Roboto,Arial,sans-serif; font-size: 10px; color: rgb(68, 68, 68); text-decoration: none; position: relative;" href="https://www.google.com/maps/@29.727733,-95.5570985,12z/data=!10m1!1e1!12b1?source=apiv3&amp;rapsrc=apiv3">Report a map error</a></div></div><div class="gmnoprint gm-bundled-control gm-bundled-control-on-bottom" style="margin: 10px; -moz-user-select: none; position: absolute; bottom: 69px; right: 28px;" draggable="false" controlwidth="28" controlheight="55"><div class="gmnoprint" style="position: absolute; left: 0px; top: 0px;" controlwidth="28" controlheight="55"><div draggable="false" style="-moz-user-select: none; box-shadow: 0px 1px 4px -1px rgba(0, 0, 0, 0.3); border-radius: 2px; cursor: pointer; background-color: rgb(255, 255, 255); width: 28px; height: 55px;"><button style="background: transparent none repeat scroll 0% 0%; display: block; border: 0px none; margin: 0px; padding: 0px; position: relative; cursor: pointer; -moz-user-select: none; width: 28px; height: 27px; top: 0px; left: 0px;" draggable="false" title="Zoom in" aria-label="Zoom in" type="button"><div style="overflow: hidden; position: absolute; width: 15px; height: 15px; left: 7px; top: 6px;"><img style="position: absolute; left: 0px; top: 0px; -moz-user-select: none; border: 0px none; padding: 0px; margin: 0px; max-width: none; width: 120px; height: 54px;" alt="" src="https://maps.gstatic.com/mapfiles/api-3/images/tmapctrl.png" draggable="false"></div></button><div style="position: relative; overflow: hidden; width: 67%; height: 1px; left: 16%; background-color: rgb(230, 230, 230); top: 0px;"></div><button style="background: transparent none repeat scroll 0% 0%; display: block; border: 0px none; margin: 0px; padding: 0px; position: relative; cursor: pointer; -moz-user-select: none; width: 28px; height: 27px; top: 0px; left: 0px;" draggable="false" title="Zoom out" aria-label="Zoom out" type="button"><div style="overflow: hidden; position: absolute; width: 15px; height: 15px; left: 7px; top: 6px;"><img style="position: absolute; left: 0px; top: -15px; -moz-user-select: none; border: 0px none; padding: 0px; margin: 0px; max-width: none; width: 120px; height: 54px;" alt="" src="https://maps.gstatic.com/mapfiles/api-3/images/tmapctrl.png" draggable="false"></div></button></div></div></div></div></div></div><div class="mapescape-scroll" style="height: 210px;"><div class="mapescape-scroll-tab" style="top: 24.6583px;"></div></div></div>
-							</div>
-						</div>						
-						<a class="btn custom-btn block" href="https://www.houstondirectauto.com/contact-houston-direct-auto-in-houston-tx">Contact Us</a>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-  
-  
-  
-
+  <section class="sell-us-your-car" id="suyc">
+    <div class="wrapper">
+      <div class="two-thirds">
+        <div class="half">
+          <h2 class="text-center" id="title">Sell us your car</h2>
+          <div class="select-wrap">
+            <select name="location" id="locationSelect">
+                            <option selected disabled>Choose Location...</option>
+                            <optgroup label="Houston Centers">
+                                <option value="stafford">Stafford - TDA Super Center</option>
+                                <option value="airtex">Airtex</option>
+                                <option value="cllc">Clear Lake / League City</option>
+                                <option value="cypress">Cypress</option>
+                                <option value="downtown">Downtown</option>
+                                <option value="westheimer">Galleria / Westheimer</option>
+                                <option value="katy">Katy</option>
+                                <option value="kingwood">Kingwood</option>
+                                <option value="memorial">Memorial</option>
+                                <option value="tomball">Tomball</option>
+                                <option value="woods">The Woodlands</option>
+                            </optgroup>
+                            <optgroup label="Dallas/Ft. Worth Centers">
+                                <option value="grandprairie">Grand Prairie - TDA Super Center</option>
+                                <option value="addison">Addison</option>
+                                <option value="arlington">Arlington</option>
+                                <option value="carrollton">Carrollton</option>
+                                <option value="colony">The Colony</option>
+                                <option value="grapevine">Grapevine</option>
+                                <option value="irving">Irving</option>
+                                <option value="plano">Plano</option>
+                                <option value="westplano">West Plano</option>
+                            </optgroup>
+                        </select>
+          </div>
+          <div itemscope itemtype="http://schema.org/Place" id="stafford" class="location active">
+            <h6 class="text-center"><span itemprop="name">Texas Direct Auto</span> - Stafford</h6>
+            <a itemprop="hasMap" target="_blank" href="https://www.google.com/maps/place/Texas+Direct+Auto/@29.64672,-95.572047,17z/data=!4m2!3m1!1s0x0:0xc28078916cde4db0?hl=en-US">
+                            <img src="images/tda_dealership_map.jpg" id="map-canvas" alt="Stafford, TX">
+                        </a>
+          </div>
+          <div id="cllc" class="location">
+            <h6 class="text-center">Sell Us Your Car - Clear Lake</h6>
+            <a target="_blank" href="https://www.google.com/maps/place/Texas+Direct+Auto/@29.505459,-95.114446,16z/data=!4m2!3m1!1s0x0:0x3687dbf4c8a04c71?hl=en-US">
+                            <img src="//www.texasdirectauto.com/static/img/lc_map2.png" alt="League City, TX">
+                        </a>
+          </div>
+          <div id="woods" class="location">
+            <h6 class="text-center">Sell Us Your Car - The Woodlands</h6>
+            <a target="_blank" href="https://www.google.com/maps/place/Texas+Direct+Auto/@30.142045,-95.446813,17z/data=!3m1!4b1!4m2!3m1!1s0x864736e1e2b45f27:0xb69929808ea287f1?hl=en-US">
+                            <img src="//www.texasdirectauto.com/static/img/wl_map.png" alt="The Woodlands, TX">
+                        </a>
+          </div>
+          <div id="westheimer" class="location">
+            <h6 class="text-center">Sell Us Your Car - Galleria</h6>
+            <a target="_blank" href="https://www.google.com/maps/place/Texas+Direct+Auto+-+Galleria+Location/@29.7377051,-95.5047406,387m/data=!3m1!1e3!4m13!1m7!3m6!1s0x8640c3bbf0bf76f5:0x29f7e3ad93294e5f!2s7730+Westheimer+Rd,+Houston,+TX+77063!3b1!8m2!3d29.7379509!4d-95.5047277!3m4!1s0x8640c3bbf0bee153:0xceb5c4f6d5d771b0!8m2!3d29.7379509!4d-95.5047277">
+              <img src="//www.texasdirectauto.com/static/img/westh_map.png" alt="Houston, TX">
+            </a>
+          </div>
+          <div id="grandprairie" class="location">
+            <h6 class="text-center">Sell Us Your Car - Grand Prairie</h6>
+            <a target="_blank" href="https://www.google.com/maps/place/Texas+Direct+Auto/@32.6744728,-97.049184,17z/data=!4m13!1m7!3m6!1s0x864e88f435fd7ab1:0xd27d8eb32389c93f!2s2615+I-20+Frontage+Rd,+Grand+Prairie,+TX+75052!3b1!8m2!3d32.6744683!4d-97.04699!3m4!1s0x864e88f4357fc031:0x5232d04e96d4eb29!8m2!3d32.674153!4d-97.046993">
+                            <img src="//www.texasdirectauto.com/static/img/tda_gp_dealership.jpg" alt="Grand Prairie, TX">
+                        </a>
+          </div>
+          <div id="memorial" class="location">
+            <h6 class="text-center">Sell Us Your Car - Memorial</h6>
+            <a target="_blank" href="https://www.google.com/maps/place/Texas+Direct+Auto/@29.783513,-95.601352,16z/data=!4m2!3m1!1s0x0:0x3b94a512ee370e67?hl=en-US">
+                            <img src="//www.texasdirectauto.com/static/img/h-m-m.png" alt="Memorial, TX">
+                        </a>
+          </div>
+          <div id="airtex" class="location">
+            <h6 class="text-center">Sell Us Your Car - Airtex</h6>
+            <a target="_blank" href="https://www.google.com/maps/place/Texas+Direct+Auto+Woodlands/@29.9050998,-95.4927702,11.22z/data=!4m8!1m2!2m1!1stexas+direct+auto+airtex!3m4!1s0x0:0x5277347ba281714c!8m2!3d29.9788029!4d-95.4210663">
+                            <img src="//www.texasdirectauto.com/static/img/tda_airtex_dealership.jpg" alt="Airtex, TX">
+                        </a>
+          </div>
+          <div id="downtown" class="location">
+            <h6 class="text-center">Sell Us Your Car - Downtown</h6>
+            <a target="_blank" href="https://goo.gl/maps/8ogzMoAsr482">
+                            <img src="//www.texasdirectauto.com/static/img/downtown.jpg" alt="Downtown, TX">
+                        </a>
+          </div>
+          <div id="katy" class="location">
+            <h6 class="text-center">Sell Us Your Car - Katy</h6>
+            <a target="_blank" href="https://www.google.com/maps/place/Texas+Direct+Auto/@29.7844264,-95.7641745,19z/data=!4m2!3m1!1s0x0000000000000000:0x936334be7aeb9019?hl=en-US">
+                            <img src="//www.texasdirectauto.com/static/img/katy-m.png" alt="Katy, TX">
+                        </a>
+          </div>
+          <div id="cypress" class="location">
+            <h6 class="text-center">Sell Us Your Car - Cypress</h6>
+            <a target="_blank" href="https://www.google.com/maps/place/Texas+Direct+Auto+Cypress/@29.915497,-95.613907,16z/data=!4m2!3m1!1s0x0:0x64e94b2d8cc64e9f?hl=en-US">
+                            <img src="//www.texasdirectauto.com/static/img/cypress_map.png" alt="Cypress, TX">
+                        </a>
+          </div>
+          <div id="kingwood" class="location">
+            <h6 class="text-center">Sell Us Your Car - Kingwood</h6>
+            <a href="https://goo.gl/maps/DhxzkETacmP2" target="_blank">
+                            <img src="//www.texasdirectauto.com/static/img/kw-main.png" alt="Kingwood, TX">
+                        </a>
+          </div>
+          <div id="tomball" class="location">
+            <h6 class="text-center">Sell Us Your Car - Tomball</h6>
+            <a target="_blank" href="https://goo.gl/maps/G9GB8Wu6wRL2">
+                            <img src="//www.texasdirectauto.com/static/img/tomball_map.png" alt="Tomball, TX">
+                        </a>
+          </div>
+          <div id="colony" class="location">
+            <h6 class="text-center">Sell Us Your Car - The Colony</h6>
+            <a target="_blank" href="https://goo.gl/maps/ziSTc22Vrb62">
+                            <img src="//www.texasdirectauto.com/static/img/colony_suycc.jpg" alt="The Colony, TX">
+                        </a>
+          </div>
+          <div id="arlington" class="location">
+            <h6 class="text-center">Sell Us Your Car - Arlington</h6>
+            <a target="_blank" href="https://goo.gl/maps/mED5WiK6vCU2">
+                            <img src="//www.texasdirectauto.com/static/img/arlington_map-compressor.png" alt="Arlington, TX">
+                        </a>
+          </div>
+          <div id="irving" class="location">
+            <h6 class="text-center">Sell Us Your Car - Irving</h6>
+            <a target="_blank" href="https://www.google.com/maps/place/Texas+Direct+Auto/@32.836486,-96.997451,17z/data=!4m2!3m1!1s0x0:0x7f0b733b67f4b3de?hl=en-US">
+                            <img src="//www.texasdirectauto.com/static/img/dal_irv_map.png" alt="Irving, TX">
+                        </a>
+          </div>
+          <div class="location" id="plano">
+            <h6 class="text-center">Sell Us Your Car - Plano</h6>
+            <a target="_blank" href="https://www.google.com/maps/place/1861+N+Central+Expy,+Plano,+TX+75075/@33.0262723,-96.712924,17z/data=!3m1!4b1!4m5!3m4!1s0x864c18fc6a248231:0x479656dea093b626!8m2!3d33.0262723!4d-96.7107353">
+                        <img src="//www.texasdirectauto.com/static/img/plano_suycc.jpg" alt="Plano, TX">
+                      </a>
+          </div>
+          <div class="location" id="westplano">
+            <h6 class="text-center">Sell Us Your Car - West Plano</h6>
+            <a target="_blank" href="https://goo.gl/maps/QfFvf5fiw9Q2">
+                        <img src="//www.texasdirectauto.com/static/img/suyc-west-plano-map.jpg" alt="West Plano, TX">
+                      </a>
+          </div>
+          <div class="location" id="grapevine">
+            <h6 class="text-center">Sell Us Your Car - Grapevine</h6>
+            <a target="_blank" href="https://goo.gl/maps/nuzTpSHgRH62">
+                        <img src="//www.texasdirectauto.com/static/img/suyc-grapevine-map.png" alt="Grapevine, TX">
+                      </a>
+          </div>
+          <div id="addison" class="location">
+            <h6 class="text-center">Sell Us Your Car - Addison</h6>
+            <a target="_blank" href="https://goo.gl/maps/iW1ccb7cEsL2">
+                            <img src="//www.texasdirectauto.com/static/img/addison_map.jpg" alt="Addison, TX">
+                        </a>
+          </div>
+          <div id="carrollton" class="location">
+            <h6 class="text-center">Sell Us Your Car - Carrollton</h6>
+            <a target="_blank" href="https://goo.gl/maps/pkHT18yunDL2">
+                            <img src="//www.texasdirectauto.com/static/img/carrollton_map.png" alt="Carrollton, TX">
+                        </a>
+          </div>
+        </div>
+        <div class="half">
+          <div id="staffordInfo" class="locationInfo active">
+            <!--<h3>Texas Direct Auto</h3>-->
+            <p>
+              <strong>Location:</strong> <br> 12053 Southwest Fwy <br> Stafford, TX 77477 <br>
+              <a href="tel:832-225-3686">832-225-3686</a>
+            </p>
+            <p>
+              <strong>Hours of operation:</strong><br>
+              <time itemprop="openingHours" datetime="Mo-Sa 09:00-19:00">Monday through Saturday 9am - 7pm</time><br>
+              <strong>Need Help? Contact us 24/7</strong>
+            </p>
+            <div class="locImages">
+              <img src="//www.texasdirectauto.com/static/img/staffordimg/texas-direct-auto-pretty-night.jpg" alt="Stafford, TX">
+              <div class="no-mobile">
+                <img src="//www.texasdirectauto.com/static/img/staffordimg/tda-stafford-welcome.jpg" alt="Texas Direct Auto">
+                <img src="//www.texasdirectauto.com/static/img/staffordimg/tda-stafford-playground.jpg" alt="Sell Us Your Car">
+                <img src="//www.texasdirectauto.com/static/img/staffordimg/tda-stafford-sales.jpg" alt="Get Paid Today">
+              </div>
+            </div>
+          </div>
+          <!-- end of stafford -->
+          <!-- beginning of clearlake -->
+          <div id="cllcInfo" class="locationInfo">
+            <!--<h3>Texas Direct Auto</h3>-->
+            <p>
+              <strong>Location:</strong> <br> 300 Gulf Fwy N <br> League City, TX 77573 <br>
+              <a href="tel:281-854-2542">281-854-2542</a>
+            </p>
+            <p>
+              <strong>Hours of operation:</strong><br>
+              <time itemprop="openingHours" datetime="Mo-Sa 09:00-18:00">Monday through Saturday 9am - 6pm</time><br>
+              <strong>Need Help? Contact us 24/7</strong>
+            </p>
+            <div class="locImages">
+              <img src="//www.texasdirectauto.com/static/img/cllcimg/tda-clearlake-exterior.jpg" alt="Clear Lake, TX">
+              <div class="no-mobile">
+                <img src="//www.texasdirectauto.com/static/img/cllcimg/tda-clearlake-sign.jpg" alt="Texas Direct Auto">
+                <img src="//www.texasdirectauto.com/static/img/cllcimg/tda-clearlake-interior.jpg" alt="Sell Us Your Car">
+                <img src="//www.texasdirectauto.com/static/img/cllcimg/tda-clearlake-kidsplayroom.jpg" alt="Get Paid Today">
+              </div>
+            </div>
+          </div>
+          <!-- end of clearlake -->
+          <!-- begininng of woodlands -->
+          <div id="woodsInfo" class="locationInfo">
+            <!--<h3>Texas Direct Auto</h3>-->
+            <p>
+              <strong>Location:</strong> <br> 26119 West Interstate 45 Service Rd <br> Spring, TX 77380 <br>
+              <a href="tel:281-854-2523">281-854-2523</a>
+            </p>
+            <p>
+              <strong>Hours of operation:</strong><br>
+              <time itemprop="openingHours" datetime="Mo-Sa 09:00-18:00">Monday through Saturday 9am - 6pm</time><br>
+              <strong>Need Help? Contact us 24/7</strong>
+            </p>
+            <div class="locImages">
+              <img src="//www.texasdirectauto.com/static/img/woodsimg/tda-woodlands-exterior.jpg" alt="Woodlands, TX">
+              <div class="no-mobile">
+                <img src="//www.texasdirectauto.com/static/img/woodsimg/tda-woodlands-signs.jpg" alt="Texas Direct Auto">
+                <img src="//www.texasdirectauto.com/static/img/woodsimg/tda-woodlands-welcome.jpg" alt="Sell Us Your Car">
+                <img src="//www.texasdirectauto.com/static/img/woodsimg/tda-woodlands-interior.jpg" alt="Get Paid Today">
+              </div>
+            </div>
+          </div>
+          <!-- end of woodlands -->
+          <!-- begininng of westheimer -->
+          <div id="westheimerInfo" class="locationInfo">
+            <p>
+              <strong>Location:</strong>
+              <br> 27730 Westheimer Rd
+              <br> Houston, TX 77063
+              <br>
+              <a href="tel:832-430-4450">832-430-4450</a>
+            </p>
+            <p>
+              <strong>Hours of operation:</strong>
+              <br>
+              <time itemprop="openingHours" datetime="Mo-Sa 09:00-18:00">Monday through Saturday 9am - 6pm</time>
+              <br>
+              <strong>Need Help? Contact us 24/7</strong>
+            </p>
+          </div>
+          <!-- end of westheimer -->
+          <!-- beginning of memorial -->
+          <div id="memorialInfo" class="locationInfo">
+            <!--<h3>Texas Direct Auto</h3>-->
+            <p>
+              <strong>Location:</strong> <br> 12171 Katy Freeway <br> Houston, TX 77079 <br>
+              <a href="tel:832-462-1191">832-462-1191</a>
+            </p>
+            <p>
+              <strong>Hours of operation:</strong><br>
+              <time itemprop="openingHours" datetime="Mo-Sa 09:00-18:00">Monday through Saturday 9am - 6pm</time><br>
+              <strong>Need Help? Contact us 24/7</strong>
+            </p>
+            <!--
+                        <div class="locImages">
+                          <img src="/static/img/woodsimg/tda-woodlands-exterior.jpg" alt="Stafford, TX">
+                          <img src="/static/img/cllcimg/tda-woodlands-signs.jpg" alt="Texas Direct Auto">
+                          <img src="/static/img/cllcimg/tda-woodlands-welcome.jpg" alt="Sell Us Your Car">
+                          <img src="/static/img/cllcimg/tda-woodlands-interior.jpg" alt="Get Paid Today">
+                        </div>
+                        -->
+          </div>
+          <!-- end of memorial -->
+          <!-- beginning of katy -->
+          <div id="katyInfo" class="locationInfo">
+            <!--<h3>Texas Direct Auto</h3>-->
+            <p>
+              <strong>Location:</strong> <br> 22461 Katy Freeway <br> Katy, TX 77450 <br>
+              <a href="tel:281-921-3030">281-921-3030</a>
+            </p>
+            <p>
+              <strong>Hours of operation:</strong><br>
+              <time itemprop="openingHours" datetime="Mo-Sa 09:00-18:00">Monday through Saturday 9am - 6pm</time><br>
+              <strong>Need Help? Contact us 24/7</strong>
+            </p>
+            <div class="locImages">
+              <img src="//www.texasdirectauto.com/static/img/katyimg/tda-katy-welcome.jpg" alt="Katy, TX">
+              <div class="no-mobile">
+                <img src="//www.texasdirectauto.com/static/img/katyimg/tda-katy-interior.jpg" alt="Texas Direct Auto">
+                <img src="//www.texasdirectauto.com/static/img/katyimg/tda-katy-interior2.jpg" alt="Sell Us Your Car">
+                <img src="//www.texasdirectauto.com/static/img/katyimg/tda-katy-interior3.jpg" alt="Get Paid Today">
+              </div>
+            </div>
+          </div>
+          <!-- end of katy -->
+          <!-- beginning of tomball -->
+          <div id="tomballInfo" class="locationInfo">
+            <!--<h3>Texas Direct Auto</h3>-->
+            <p>
+              <strong>Location:</strong> <br> 21901 State Highway 249, Suite 400 <br> Houston, TX 77070 <br>
+              <a href="tel:281-921-3436">281-921-3436</a>
+            </p>
+            <p>
+              <strong>Hours of operation:</strong><br>
+              <time itemprop="openingHours" datetime="Mo-Sa 09:00-18:00">Monday through Saturday 9am - 6pm</time><br>
+              <strong>Need Help? Contact us 24/7</strong>
+            </p>
+            <!--
+                        <div class="locImages">
+                          <img src="/static/img/woodsimg/tda-woodlands-exterior.jpg" alt="Woodlands, TX">
+                          <div class="no-mobile">
+                            <img src="/static/img/woodsimg/tda-woodlands-signs.jpg" alt="Texas Direct Auto">
+                            <img src="/static/img/woodsimg/tda-woodlands-welcome.jpg" alt="Sell Us Your Car">
+                            <img src="/static/img/woodsimg/tda-woodlands-interior.jpg" alt="Get Paid Today">
+                          </div>
+                        </div>
+                        -->
+          </div>
+          <!-- end of tomball -->
+          <!-- beginning of plano -->
+          <div id="planoInfo" class="locationInfo">
+            <!--<h3>Texas Direct Auto</h3>-->
+            <p>
+              <strong>Location:</strong> <br> 1861 N Central Expressway <br> Plano, TX 75075 <br>
+              <a href="tel:469-661-1010">469-661-1010</a>
+            </p>
+            <p>
+              <strong>Hours of operation:</strong><br>
+              <time itemprop="openingHours" datetime="Mo-Sa 09:00-18:00">Monday through Saturday 9am - 6pm</time><br>
+              <strong>Need Help? Contact us 24/7</strong>
+            </p>
+            <!--
+                        <div class="locImages">
+                          <img src="/static/img/woodsimg/tda-woodlands-exterior.jpg" alt="Stafford, TX">
+                          <img src="/static/img/cllcimg/tda-woodlands-signs.jpg" alt="Texas Direct Auto">
+                          <img src="/static/img/cllcimg/tda-woodlands-welcome.jpg" alt="Sell Us Your Car">
+                          <img src="/static/img/cllcimg/tda-woodlands-interior.jpg" alt="Get Paid Today">
+                        </div>
+                        -->
+          </div>
+          <!-- end of plano -->
+          <!-- beginning of west plano -->
+          <div id="westplanoInfo" class="locationInfo">
+            <!--<h3>Texas Direct Auto</h3>-->
+            <p>
+              <strong>Location:</strong> <br> 5969 Dallas Pkwy <br> Plano, TX 75093 <br>
+              <a href="tel:469-660-1611">469-660-1611</a>
+            </p>
+            <p>
+              <strong>Hours of operation:</strong><br>
+              <time itemprop="openingHours" datetime="Mo-Sa 09:00-18:00">Monday through Saturday 9am - 6pm</time><br>
+              <strong>Need Help? Contact us 24/7</strong>
+            </p>
+            <!--
+                        <div class="locImages">
+                          <img src="/static/img/woodsimg/tda-woodlands-exterior.jpg" alt="Stafford, TX">
+                          <img src="/static/img/cllcimg/tda-woodlands-signs.jpg" alt="Texas Direct Auto">
+                          <img src="/static/img/cllcimg/tda-woodlands-welcome.jpg" alt="Sell Us Your Car">
+                          <img src="/static/img/cllcimg/tda-woodlands-interior.jpg" alt="Get Paid Today">
+                        </div>
+                        -->
+          </div>
+          <!-- end of west plano -->
+          <!-- beginning of airtex -->
+          <div id="airtexInfo" class="locationInfo">
+            <!--<h3>Texas Direct Auto</h3>-->
+            <p>
+              <strong>Location:</strong> <br> 14820 North Freeway #600<br> Houston, TX 77090<br>
+              <a href="tel:+1-713-936-2540">713-936-2540</a>
+            </p>
+            <p>
+              <strong>Hours of operation:</strong><br>
+              <time itemprop="openingHours" datetime="Mo-Sa 09:00-18:00">Monday through Saturday 9am - 6pm</time><br>
+              <strong>Need Help? Contact us 24/7</strong>
+            </p>
+            <!--
+                        <div class="locImages">
+                          <img src="/static/img/woodsimg/tda-woodlands-exterior.jpg" alt="Woodlands, TX">
+                          <div class="no-mobile">
+                            <img src="/static/img/woodsimg/tda-woodlands-signs.jpg" alt="Texas Direct Auto">
+                            <img src="/static/img/woodsimg/tda-woodlands-welcome.jpg" alt="Sell Us Your Car">
+                            <img src="/static/img/woodsimg/tda-woodlands-interior.jpg" alt="Get Paid Today">
+                          </div>
+                        </div>
+                        -->
+          </div>
+          <!-- end of airtex -->
+          <!-- beginning of downtown -->
+          <div id="downtownInfo" class="locationInfo">
+            <!--<h3>Texas Direct Auto</h3>-->
+            <p>
+              <strong>Location:</strong> <br> 1301 Leeland St. <br> Houston, TX 77002 <br>
+              <a href="tel:281-921-3597">281-921-3597</a>
+            </p>
+            <p>
+              <strong>Hours of operation:</strong><br>
+              <time itemprop="openingHours" datetime="Mo-Sa 09:00-18:00">Monday through Saturday 9am - 6pm</time><br>
+              <strong>Need Help? Contact us 24/7</strong>
+            </p>
+            <!--
+                        <div class="locImages">
+                          <img src="/static/img/woodsimg/tda-woodlands-exterior.jpg" alt="Woodlands, TX">
+                          <div class="no-mobile">
+                            <img src="/static/img/woodsimg/tda-woodlands-signs.jpg" alt="Texas Direct Auto">
+                            <img src="/static/img/woodsimg/tda-woodlands-welcome.jpg" alt="Sell Us Your Car">
+                            <img src="/static/img/woodsimg/tda-woodlands-interior.jpg" alt="Get Paid Today">
+                          </div>
+                        </div>
+                        -->
+          </div>
+          <!-- end of downtown -->
+          <!-- beginning of cypress -->
+          <div id="cypressInfo" class="locationInfo">
+            <!--<h3>Texas Direct Auto</h3>-->
+            <p>
+              <strong>Location:</strong> <br> 19710 Northwest Freeway #400<br> Houston, TX 77065 <br>
+              <a href="tel:281-854-2548">281-854-2548</a>
+            </p>
+            <p>
+              <strong>Hours of operation:</strong><br>
+              <time itemprop="openingHours" datetime="Mo-Sa 09:00-18:00">Monday through Saturday 9am - 6pm</time><br>
+              <strong>Need Help? Contact us 24/7</strong>
+            </p>
+            <div class="locImages">
+              <img src="//www.texasdirectauto.com/static/img/cypressimg/tda-cypress-exterior.jpg" alt="Cypress, TX">
+              <div class="no-mobile">
+                <img src="//www.texasdirectauto.com/static/img/cypressimg/tda-cypress-welcome.jpg" alt="Texas Direct Auto">
+                <img src="//www.texasdirectauto.com/static/img/cypressimg/tda-cypress-interior.jpg" alt="Sell Us Your Car">
+                <img src="//www.texasdirectauto.com/static/img/cypressimg/tda-cypress-interior2.jpg" alt="Get Paid Today">
+              </div>
+            </div>
+          </div>
+          <!-- end of cypress -->
+          <!-- beginning of kingwood -->
+          <div id="kingwoodInfo" class="locationInfo">
+            <!--<h3>Texas Direct Auto</h3>-->
+            <p>
+              <strong>Location:</strong> <br> 23906 Eastex Freeway Service Rd <br> Kingwood, TX 77339<br>
+              <a href="tel:281-921-3434">281-921-3434</a>
+            </p>
+            <p>
+              <strong>Hours of operation:</strong><br>
+              <time itemprop="openingHours" datetime="Mo-Sa 09:00-18:00">Monday through Saturday 9am - 6pm</time><br>
+              <strong>Need Help? Contact us 24/7</strong>
+            </p>
+            <!--
+                        <div class="locImages">
+                          <img src="/static/img/woodsimg/tda-woodlands-exterior.jpg" alt="Stafford, TX">
+                          <img src="/static/img/cllcimg/tda-woodlands-signs.jpg" alt="Texas Direct Auto">
+                          <img src="/static/img/cllcimg/tda-woodlands-welcome.jpg" alt="Sell Us Your Car">
+                          <img src="/static/img/cllcimg/tda-woodlands-interior.jpg" alt="Get Paid Today">
+                        </div>
+                        -->
+          </div>
+          <!-- end of kingwood -->
+          <!-- beginning of addison -->
+          <div id="addisonInfo" class="locationInfo">
+            <!--<h3>Texas Direct Auto</h3>-->
+            <p>
+              <strong>Location:</strong> <br> 15250 Dallas Parkway #300<br> Dallas, TX 75248<br>
+              <a href="tel:4696601620">469-660-1620</a>
+            </p>
+            <p>
+              <strong>Hours of operation:</strong><br>
+              <time itemprop="openingHours" datetime="Mo-Sa 09:00-18:00">Monday through Saturday 9am - 6pm</time><br>
+              <strong>Need Help? Contact us 24/7</strong>
+            </p>
+            <!--
+                        <div class="locImages">
+                          <img src="/static/img/woodsimg/tda-woodlands-exterior.jpg" alt="Stafford, TX">
+                          <img src="/static/img/cllcimg/tda-woodlands-signs.jpg" alt="Texas Direct Auto">
+                          <img src="/static/img/cllcimg/tda-woodlands-welcome.jpg" alt="Sell Us Your Car">
+                          <img src="/static/img/cllcimg/tda-woodlands-interior.jpg" alt="Get Paid Today">
+                        </div>
+                        -->
+          </div>
+          <!-- end of addison -->
+          <!-- beginning of carrollton -->
+          <div id="carrolltonInfo" class="locationInfo">
+            <!--<h3>Texas Direct Auto</h3>-->
+            <p>
+              <strong>Location:</strong> <br> 1800 N Interstate 35E <br> Carrollton, TX 75006 <br>
+              <a href="tel:469-660-1609">469-660-1609</a>
+            </p>
+            <p>
+              <strong>Hours of operation:</strong><br>
+              <time itemprop="openingHours" datetime="Mo-Sa 09:00-18:00">Monday through Saturday 9am - 6pm</time><br>
+              <strong>Need Help? Contact us 24/7</strong>
+            </p>
+            <!--
+                        <div class="locImages">
+                          <img src="/static/img/woodsimg/tda-woodlands-exterior.jpg" alt="Stafford, TX">
+                          <img src="/static/img/cllcimg/tda-woodlands-signs.jpg" alt="Texas Direct Auto">
+                          <img src="/static/img/cllcimg/tda-woodlands-welcome.jpg" alt="Sell Us Your Car">
+                          <img src="/static/img/cllcimg/tda-woodlands-interior.jpg" alt="Get Paid Today">
+                        </div>
+                        -->
+          </div>
+          <!-- end of carrollton -->
+          <!-- beginning of grand prairie -->
+          <div id="grandprairieInfo" class="locationInfo">
+            <!--<h3>Texas Direct Auto</h3>-->
+            <p>
+              <strong>Location:</strong> <br> 2615 I-20 Frontage Rd. <br> Grand Prairie, TX 75052 <br>
+              <a href="tel:469-660-1600">469-660-1600</a>
+            </p>
+            <p>
+              <strong>Hours of operation:</strong><br>
+              <time itemprop="openingHours" datetime="Mo-Sa 09:00-19:00">Monday through Saturday 9am - 7pm</time><br>
+              <strong>Need Help? Contact us 24/7</strong>
+            </p>
+            <!--
+                        <div class="locImages">
+                          <img src="//www.texasdirectauto.com/static/img/cllcimg/tda-clearlake-exterior.jpg" alt="Clear Lake, TX">
+                          <div class="no-mobile">
+                            <img src="//www.texasdirectauto.com/static/img/cllcimg/tda-clearlake-sign.jpg" alt="Texas Direct Auto">
+                            <img src="//www.texasdirectauto.com/static/img/cllcimg/tda-clearlake-interior.jpg" alt="Sell Us Your Car">
+                            <img src="//www.texasdirectauto.com/static/img/cllcimg/tda-clearlake-kidsplayroom.jpg" alt="Get Paid Today">
+                          </div>
+                        </div>
+                        -->
+          </div>
+          <!-- end of grand prairie -->
+          <!-- beginning of irving -->
+          <div id="irvingInfo" class="locationInfo">
+            <!--<h3>Texas Direct Auto</h3>-->
+            <p>
+              <strong>Location:</strong> <br> 3578 W. Airport Freeway #120<br> Irving, TX 75062 <br>
+              <a href="tel:972-590-9829">972-590-9829</a>
+            </p>
+            <p>
+              <strong>Hours of operation:</strong><br>
+              <time itemprop="openingHours" datetime="Mo-Sa 09:00-18:00">Monday through Saturday 9am - 6pm</time><br>
+              <strong>Need Help? Contact us 24/7</strong>
+            </p>
+            <!--
+                        <div class="locImages">
+                          <img src="/static/img/woodsimg/tda-woodlands-exterior.jpg" alt="Stafford, TX">
+                          <img src="/static/img/cllcimg/tda-woodlands-signs.jpg" alt="Texas Direct Auto">
+                          <img src="/static/img/cllcimg/tda-woodlands-welcome.jpg" alt="Sell Us Your Car">
+                          <img src="/static/img/cllcimg/tda-woodlands-interior.jpg" alt="Get Paid Today">
+                        </div>
+                        -->
+          </div>
+          <!-- beginning of the colony -->
+          <div id="colonyInfo" class="locationInfo">
+            <!--<h3>Texas Direct Auto</h3>-->
+            <p>
+              <strong>Location:</strong> <br> 5040 TX-121 Suite 200 <br> Lewisville, TX 75056 <br>
+              <a href="tel:469-660-1610">469-660-1610</a>
+            </p>
+            <p>
+              <strong>Hours of operation:</strong><br>
+              <time itemprop="openingHours" datetime="Mo-Sa 09:00-18:00">Monday through Saturday 9am - 6pm</time><br>
+              <strong>Need Help? Contact us 24/7</strong>
+            </p>
+            <!--
+                        <div class="locImages">
+                          <img src="/static/img/woodsimg/tda-woodlands-exterior.jpg" alt="Stafford, TX">
+                          <img src="/static/img/cllcimg/tda-woodlands-signs.jpg" alt="Texas Direct Auto">
+                          <img src="/static/img/cllcimg/tda-woodlands-welcome.jpg" alt="Sell Us Your Car">
+                          <img src="/static/img/cllcimg/tda-woodlands-interior.jpg" alt="Get Paid Today">
+                        </div>
+                        -->
+          </div>
+          <!-- end of the colony -->
+          <!-- beginning of the grapevine -->
+          <div id="grapevineInfo" class="locationInfo">
+            <!--<h3>Texas Direct Auto</h3>-->
+            <p>
+              <strong>Location:</strong> <br> 1000 W State Highway 114 <br> Grapevine, TX 76051 <br>
+              <a href="tel:817-442-7100">817-442-7100</a>
+            </p>
+            <p>
+              <strong>Hours of operation:</strong><br>
+              <time itemprop="openingHours" datetime="Mo-Sa 09:00-18:00">Monday through Saturday 9am - 6pm</time><br>
+              <strong>Need Help? Contact us 24/7</strong>
+            </p>
+            <!--
+                        <div class="locImages">
+                          <img src="/static/img/woodsimg/tda-woodlands-exterior.jpg" alt="Stafford, TX">
+                          <img src="/static/img/cllcimg/tda-woodlands-signs.jpg" alt="Texas Direct Auto">
+                          <img src="/static/img/cllcimg/tda-woodlands-welcome.jpg" alt="Sell Us Your Car">
+                          <img src="/static/img/cllcimg/tda-woodlands-interior.jpg" alt="Get Paid Today">
+                        </div>
+                        -->
+          </div>
+          <!-- end of the grapevine -->
+          <!-- beginning of arlington -->
+          <div id="arlingtonInfo" class="locationInfo">
+            <!--<h3>Texas Direct Auto</h3>-->
+            <p>
+              <strong>Location:</strong> <br> 900 E. Copeland Rd #260<br> Arlington, TX 76011 <br>
+              <a href="tel:972-590-9832">972-590-9832</a>
+            </p>
+            <p>
+              <strong>Hours of operation:</strong><br>
+              <time itemprop="openingHours" datetime="Mo-Sa 09:00-18:00">Monday through Saturday 9am - 6pm</time><br>
+              <strong>Need Help? Contact us 24/7</strong>
+            </p>
+            <!--
+                        <div class="locImages">
+                          <img src="/static/img/woodsimg/tda-woodlands-exterior.jpg" alt="Stafford, TX">
+                          <img src="/static/img/cllcimg/tda-woodlands-signs.jpg" alt="Texas Direct Auto">
+                          <img src="/static/img/cllcimg/tda-woodlands-welcome.jpg" alt="Sell Us Your Car">
+                          <img src="/static/img/cllcimg/tda-woodlands-interior.jpg" alt="Get Paid Today">
+                        </div>
+                        -->
+          </div>
+        </div>
+        <div class="full mt-3">
+          <h2>We Pay More! <br class="mobile-only"> <span>We Pay Today!</span></h2>
+          <p>
+            No appointment ever needed, just come on in anytime, or if you want to get an appraisal online just fill in the <strong>sell my car form</strong>,
+            as much as you have, not all information is required but the more you provide the better we can get you the best
+            estimate for your car or truck.
+          </p>
+          <p>
+            Selling your car to <strong>Texas Direct Auto</strong> is <strong>Fast, Easy and Fun</strong>!
+            <!--We buy 1000's of vehicles a month from customers just like you. Stop by one of our many
+                        buying centers <a class="modal-trigger" href="javascript:void(0)" data-modal="#select_location">located</a> conveniently <strong>near you</strong>, or head on over to our main location in Stafford!-->
+          </p>
+        </div>
+      </div>
+      <div class="one-third" id="tradeForm">
+        <form id="suycUpload">
+          <div class="full">
+            <h2 class="text-center">Sell my car</h2>
+          </div>
+          <input id="selfie-url" name="upURL" type="hidden" value="">
+          <h5><span>1</span> Selfie of your car</h5>
+          <div class="input-cell inline">
+            <label id="my-car-selfie" for="up-selfie" title="Upload your car's selfie"></label>
+            <div class="car-selfie">
+              <h6>Optional</h6>
+              <h6><img src="//www.texasdirectauto.com/static/img/sell-us-your-car.png" alt="Car selfie"></h6>
+              <h6>...but helpful</h6>
+              <div id="add-selfie"><i class="icon-camera-alt"></i></div>
+            </div>
+            <input type="file" multiple onchange="selfieUpload()" id="up-selfie" accept="image/gif,imgage/jpeg, image/jpg, image/png"
+              name="file">
+          </div>
+          <div class="input-cell inline">
+            <div id="sf-up"></div>
+          </div>
+          <h5><span>2</span> Describe your car</h5>
+          <div class="input-cell inline">
+            <label for="car-year">Year</label>
+            <input type="tel" id="car-year" required minlength=4 maxlength=4 name="year" placeholder="Year...">
+          </div>
+          <div class="input-cell inline">
+            <label for="car-make">Make</label>
+            <div class="select-wrap">
+              <select name="make" id="car-make" required></select>
+            </div>
+          </div>
+          <div class="input-cell inline">
+            <label for="car-model">Model</label>
+            <div class="select-wrap">
+              <select name="model" id="car-model" required></select>
+            </div>
+          </div>
+          <div class="input-cell inline">
+            <label for="miles">Miles</label>
+            <input type="tel" required maxlength=7 id="miles" name="miles" placeholder="Miles...">
+          </div>
+          <div class="input-cell inline">
+            <label for="car-vin">VIN</label>
+            <input type="text" name="vin" id="vin" maxlength=17 placeholder="VIN...">
+          </div>
+          <div class="input-cell inline">
+            <label for="car-color">Color</label>
+            <input type="text" id="car-color" name="extColor" placeholder="Exterior color...">
+          </div>
+          <div class="input-cell inline">
+            <label for="car-color">Price</label>
+            <input type="text" id="car-color" name="expPrice" placeholder="Expected amount...">
+          </div>
+          <div class="input-cell inline">
+            <label for="car-options">Options</label>
+            <textarea name="comments" id="car-options"></textarea>
+          </div>
+          <h5><span>3</span> How do we reach you?</h5>
+          <div class="input-cell inline">
+            <label for="ur-name">Name</label>
+            <input type="text" id="ur-name" name="firstName" required placeholder="Full name...">
+          </div>
+          <div class="input-cell inline">
+            <label for="ur-email">Email</label>
+            <input type="email" id="ur-email" name="email" required placeholder="Email...">
+          </div>
+          <div class="input-cell inline">
+            <label for="ur-phone">Phone</label>
+            <input type="tel" id="ur-phone" name="cellPhone" placeholder="Number to call...">
+          </div>
+          <div class="input-cell inline">
+            <label for="ur-zip">Zip</label>
+            <input type="tel" id="ur-zip" name="zipCode" required minlength=5 max-length=5 placeholder="Postal code...">
+          </div>
+          <div class="input-cell">
+            <button itemprop="makesOffer" id="btnSUYC" class="right">Sell My Car</button>
+          </div>
+          <div class="input-cell">
+            <input type="hidden" , " name="url "," value="/">
+            <input id="email-opt" name="email-opt" type="checkbox" checked>
+            <label style="font-family:'Open Sans'; font-size:0.8em;" for="email-opt">I would like to receive occasional emails</label>
+          </div>
+          <div class="input-cell">
+            <small>
+                      By clicking Sell My Car, I authorize Texas Direct Auto
+                      and its affiliates to text/call me. We may use an autodialer.
+                      Consent is not required to purchase goods/services.
+                    </small>
+          </div>
+        </form>
+      </div>
+    </div>
+  </section>
+  <section class="finance" id="finance">
+    <div class="wrapper">
+      <section class="full">
+        <h2 class="text-center">We have rates <strong>as low as 2.9%</strong></h2>
+      </section>
+      <section class="full">
+        <div class="one-third">
+          <a class="panel_link df-trigger" data-menu="#finance-form" href="javascript:void(0)">
+            <div class="panel card mb-1">
+              <div class="i-display" id="a-l-r"><i class="icon-wallet-giftcard"></i></div>
+              <h3>Always Low Rates</h3>
+              <p>Finance your new ride for <br> <strong>as low as 2.9%</strong></p>
+            </div>
+          </a>
+        </div>
+        <div class="one-third">
+          <a class="panel_link df-trigger" data-menu="#finance-form" href="javascript:void(0)">
+            <div class="panel card mb-1">
+              <div class="i-display" id="f-f"><i class="icon-timer"></i></div>
+              <h3>Freaky Fast</h3>
+              <p>Zero to approval in <br> <strong>only a few minutes</strong></p>
+            </div>
+          </a>
+        </div>
+        <div class="one-third">
+          <a class="panel_link df-trigger" data-menu="#finance-form" href="javascript:void(0)">
+            <div class="panel card mb-1">
+              <div class="i-display" id="b-w-c"><i class="icon-favorite-outline"></i></div>
+              <h3>Because We Care</h3>
+              <p>Call us anytime with questions <br> <strong>(281) 499-8200</strong></p>
+            </div>
+          </a>
+        </div>
+        <div class="full">
+          <p>
+            <a itemprop="makesOffer" id="rate-lock" class="panel_link df-trigger" data-menu="#finance-form" href="javascript:void(0)">
+                        Get Financed!
+                      </a>
+          </p>
+        </div>
+      </section>
+    </div>
+  </section>
   <section class="why" id="why">
     <div class="wrapper">
       <section class="full">
