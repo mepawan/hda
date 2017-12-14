@@ -243,6 +243,33 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale
 }
+.lineup-wrap{
+	padding:15px 0;
+    padding-top: 8em;
+    padding-bottom: 8em;
+	margin:0px auto;
+    background: #d9e5f2;
+}
+.value-ur-trade-frm .form-group{
+		margin:15px auto;
+}
+.value-ur-trade-frm .form-control{
+	border:0;
+	border-radius:0;
+	padding:5px 8px;
+}
+#why
+{
+   padding-top: 4em;
+    padding-bottom: 4em;  
+}
+.lineup-wrap a{
+	text-align:center;
+	display:block;
+	margin-top: 40px;
+	color:#4E80BD;
+	text-decoration:none;
+}
 @media (min-width: 22.5em) {
     body {
         font-size: 1em
@@ -271,11 +298,16 @@ body {
         margin-left: auto;
         margin-right: auto
     }
-    .wrapper:after {
+    .wrapper:after, .wrapper-full:after{
         content: " ";
         display: block;
         clear: both
     }
+	.wrapper-full{
+		 max-width: 98%;
+        margin-left: auto;
+        margin-right: auto;
+	}
 }
 .full {
     clear: both;
@@ -3403,6 +3435,17 @@ header nav ul li#need_help {
     display: block;
     padding: 0.3em 0.5em 0.5em
 }
+.panel.card.fu img {
+    width: 12%;
+    
+}
+.fws
+{
+        clear: both;
+    padding: 5px 0px;
+    background: #d9e5f2;
+}
+
 @media (max-width: 40em) {
     .panel.card img {
         width: 33.3333%
@@ -4053,6 +4096,10 @@ div.df-menu .df-makes-list li a span {
     display: block;
     float: left
 }
+#footer{
+	background:#fff;
+	    margin-bottom: 17px;
+}
 footer {
     position: absolute;
     bottom: 0;
@@ -4132,7 +4179,7 @@ footer ul#follow li a#tda-gp:hover {
     margin-top: 1em
 }
 .mt-2 {
-    margin-top: 2em
+    margin-top: 0em
 }
 .mt-3 {
     margin-top: 3em
@@ -4200,7 +4247,7 @@ footer ul#follow li a#tda-gp:hover {
 .rotatable-text {
     max-width: 100%;
     min-width: 100%;
-    min-height: 50px;
+    min-height: 0px; 
     width: 100%;
     float: left;
     display: block;
@@ -4522,7 +4569,7 @@ blockquote {
 .introduction {
     width: 100%;
     height: 100%;
-    min-height: 100vh;
+    min-height: 70vh;
     background: #d9e5f2;
     position: relative;
     float: left;
@@ -4534,7 +4581,7 @@ blockquote {
     }
 }
 .introduction .wrapper {
-    padding-top: 11em
+    padding-top: 8em
 }
 @media (max-width: 40em) {
     .introduction .wrapper {
@@ -5015,9 +5062,10 @@ blockquote {
 }
 .finance {
     width: 100%;
-    min-height: 100vh;
+    min-height: 60vh;
     height: 100%;
-    background: #eee;
+   /*  background: #eee; */
+     background: rgba(217, 229, 242, 0.64);
     float: left;
     display: block
 }
@@ -5313,14 +5361,16 @@ blockquote {
 }
 .why {
     width: 100%;
-    min-height: 100vh;
-    height: 100%;
+    
     float: left;
     display: block;
-    background: #fff
+    
+   /* background: rgba(128, 128, 128, 0.53); */
+   background:rgba(217, 229, 242, 0.46);
 }
 .why .wrapper {
-    padding: 10em 0
+    padding: 2em 0;
+    padding-bottom: 4em;
 }
 @media (max-width: 40em) {
     .why .wrapper {
@@ -5338,6 +5388,24 @@ blockquote {
     float: left;
     width: 100%
 }
+.form1
+{
+  padding: 0px 10px;
+}
+.btn-info {
+    margin: 10px -10px;
+    background-color: #4E80BC;
+    border-color: #4D7FBB;
+	color: #fff;
+}
+.copy-wright{
+	margin:10px auto;
+	text-align:center;
+}
+.copy-write-text{
+	padding:15px 0;
+}
+
 @media (max-width: 40em) {
     .why .wrapper h2 {
         font-size: 2.6em
@@ -5347,7 +5415,8 @@ blockquote {
     color: #4a7dbb
 }
 .why .wrapper .panel.card {
-    padding: 0.626em
+    padding: 0.626em;
+        border-radius: 20px;
 }
 .why .wrapper .panel.card .i-display {
     font-size: 6em;
@@ -5450,12 +5519,21 @@ blockquote {
 }
 .locations {
     width: 100%;
-    height: 100vh;
+    /* height: 100vh; */
     float: left;
     display: block
 }
 .locations .wrapper {
     padding-top: 5em
+}
+.formus
+{
+    border: 1px solid rgba(128, 128, 128, 0.75);
+}
+.formus h4
+{
+    border-bottom: 1px solid rgba(128, 128, 128, 0.75);
+    padding: 10px;
 }
 @media (max-height: 60.063em) {
     .locations .wrapper {
@@ -6738,4 +6816,135 @@ body.ebaystyle .wrapper {
         padding-left: 0.83333%;
         padding-right: 0.83333%
     }
+}
+
+
+
+/*** POPUP ***/
+[data-popup] {
+  display    : none;
+  position   : fixed;
+  z-index    : 9999;
+  right      : 0;
+  left       : 0;
+  margin     : 45px auto;  
+  width      : 42%;
+  min-width  : 200px;
+  padding    : 15px 25px 25px;
+  background : #eee;
+  top:       0px;
+  transition: box-shadow 2s;
+  box-shadow : 0 0 0 1900px hsla(220,7%,18%,0.6),
+          0 10px 30px -5px hsla(220,7%,18%,0.6);
+}
+[data-popup] h2 span {
+  float : right;
+}
+#mymodelpopup
+{
+  height: 500px;
+  overflow-y: scroll;
+}
+#mymodelpopup ul li
+{
+      background: azure;
+    list-style: none;
+    border: 1px solid rgba(128, 128, 128, 0.37);
+    padding: 12px 12px
+}
+
+#mymodelpopup ul li a {
+    color: #4a7dbb;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.modalDialog {
+    position: fixed;
+    font-family: Arial, Helvetica, sans-serif;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: rgba(0, 0, 0, 0.8);
+    z-index: 99999;
+    opacity:0;
+    -webkit-transition: opacity 400ms ease-in;
+    -moz-transition: opacity 400ms ease-in;
+    transition: opacity 400ms ease-in;
+    pointer-events: none;
+}
+.modalDialog:target {
+    opacity:1;
+    pointer-events: auto;
+}
+.modalDialog > div {
+   /* width: 400px;
+    position: relative;
+    margin: 10% auto;
+    padding: 5px 20px 13px 20px;
+    border-radius: 10px;
+    background: #fff; */
+        width: 42%;
+    position: relative;
+    margin: 4% auto;
+    padding: 5px 20px 13px 20px;
+   
+    background: #fff;
+    
+}
+.close {
+   /* background: #606061;
+    color: #FFFFFF;
+    line-height: 25px;
+    position: absolute;
+    right: -12px;
+    text-align: center;
+    top: -10px;
+    width: 24px;
+    text-decoration: none;
+    font-weight: bold;
+    -webkit-border-radius: 12px;
+    -moz-border-radius: 12px;
+    border-radius: 12px;
+    -moz-box-shadow: 1px 1px 3px #000;
+    -webkit-box-shadow: 1px 1px 3px #000;
+    box-shadow: 1px 1px 3px #000; 
+    background: blue; */
+    color: rgba(0, 0, 0, 0.73);
+    line-height: 25px;
+    
+    text-align: center;
+    top: 5px;
+    width: 27px;
+    text-decoration: none;
+    font-weight: bold;
+    -webkit-border-radius: 12px;
+    -moz-border-radius: 12px;
+    border-radius: 12px;
+    -moz-box-shadow: 1px 1px 3px #000;
+    
+}
+.close:hover {
+    background: #00d9ff;
+}
+.cim
+{
+    font-size: 16px;
+   /* font-weight: bold; */
+   text-transform: capitalize;
+}
+.cim : hover{
+    list-style:none;
+    text-decoration: blink;
+}
+#as2
+{
+    margin: 0px 0px 10px 10px ;
+}
+.close
+{
+    float: initial !important;
+    
+    opacity: 1.2 !important;
 }

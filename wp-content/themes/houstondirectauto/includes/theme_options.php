@@ -122,6 +122,33 @@ class HdaThemeOptions{
 			'before_title' => '<h2 class="rounded">',
 			'after_title' => '</h2>',
 		) );
+
+		register_sidebar( array(
+			'name' => 'Footer 1',
+			'id' => 'footer1',
+			'before_widget' => '',
+			'after_widget' => '',
+			'before_title' => '<h3><strong>',
+			'after_title' => '</strong></h3>',
+		) );
+
+		register_sidebar( array(
+			'name' => 'Footer 2',
+			'id' => 'footer2',
+			'before_widget' => '',
+			'after_widget' => '',
+			'before_title' => '<h3><strong>',
+			'after_title' => '</strong></h3>',
+		) );
+
+		register_sidebar( array(
+			'name' => 'Footer 3',
+			'id' => 'footer3',
+			'before_widget' => '',
+			'after_widget' => '',
+			'before_title' => '<h3><strong>',
+			'after_title' => '</strong></h3>',
+		) );
 	}
 	function register_my_menus() {
 	  register_nav_menus(

@@ -7,7 +7,8 @@ global $hdaThemOptions;
 ?><!DOCTYPE html>
 <html itemscope itemtype="http://schema.org/AutoDealer" lang="en" class="no-js">
 <head>
-    <meta property="fb:app_id" content="422599167903681" />
+     <title> <?php bloginfo('name'); ?> <?php wp_title(); ?></title>
+    <meta name="<?php bloginfo('description'); ?>" content="<?php bloginfo('html_type'); ?>" />
     <meta name="google-site-verification" content="LFGVS21Z6H7yyFJxIQekNiG6JkHeOg723VwY2r1MiNM" />
     <meta name="p:domain_verify" content="1140b65abc21324cb9c054d233182673"/>
     <meta name="msvalidate.01" content="B75DA961522C189DA3E78FE2EB7FC807" />
@@ -22,7 +23,7 @@ global $hdaThemOptions;
     <link rel="apple-touch-icon" sizes="120x120" href="//www.texasdirectauto.com/static/img/touch/apple-touch-icon-120x120.png" />
     <link rel="apple-touch-icon" sizes="144x144" href="//www.texasdirectauto.com/static/img/touch/apple-touch-icon-144x144.png" />
     <link rel="apple-touch-icon" sizes="152x152" href="//www.texasdirectauto.com/static/img/touch/apple-touch-icon-152x152.png" />
-    <link rel="stylesheet" type="text/css" href="<?php echo home_url();?>/wp-content/themes/houstondirectauto/assets/css/bootstrap.css" />
+    <!--link rel="stylesheet" type="text/css" href="<?php echo home_url();?>/wp-content/themes/houstondirectauto/assets/css/bootstrap.css" /-->
 	<?php wp_head(); ?>
 
  <script type= "text/javascript">
@@ -70,7 +71,7 @@ global $hdaThemOptions;
   <div class="main">
     <button id="mobile-nav-trigger"><i class="icon-menu"></i></button>
     <div id="logo" itemprop="legalName">
-		<a href="<?php home_url();?>">
+		<a href="<?php echo get_home_url(); ?>">
 			<img src="<?php if(isset($hdaThemOptions->theme_options['logo']) && $hdaThemOptions->theme_options['logo']) { echo $hdaThemOptions->theme_options['logo'];} else { echo get_template_directory_uri().'/assets/images/hda-logo.png';}?>" alt="Texas Direct Auto">
 		</a>
     </div>

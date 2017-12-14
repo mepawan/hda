@@ -1,0 +1,300 @@
+# Translation of Plugins - PVN Google Map - Development (trunk) in Italian
+# This file is distributed under the same license as the Plugins - PVN Google Map - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-01-12 09:58+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.9\n"
+"Language: it\n"
+"Project-Id-Version: Plugins - PVN Google Map - Development (trunk)\n"
+"POT-Creation-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+#: inc/function.php:223
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: inc/function.php:223
+msgid "Settings PVN Google Map"
+msgstr "Impostazioni PVN Google Map"
+
+#: admin/admin-pvn-google-map-option.php:182
+msgid "Lightbox"
+msgstr "Lightbox"
+
+#: admin/admin-pvn-google-map-settings.php:56
+msgid "Get your own key"
+msgstr "Ottieni la propria chiave"
+
+#: admin/admin-pvn-google-map-settings.php:43
+msgid "Map language"
+msgstr "Lingua Mappa"
+
+#: admin/admin-pvn-google-map-option.php:236
+msgid "Default marker icon when a new marker is created"
+msgstr "Icona predefinita del marcatore quando viene creato uno nuovo."
+
+#: admin/admin-pvn-google-map-option.php:230
+#: admin/admin-pvn-google-map-option.php:243
+msgid "Change image"
+msgstr "Cambia immagine"
+
+#: admin/admin-pvn-google-map-option.php:223
+msgid "Default image tooltip when a new marker is created"
+msgstr "Immagine predefinita nel tooltip quando viene creato un nuovo marcatore"
+
+#: inc/function.php:751
+msgid "Use this image"
+msgstr "Utilizza questa immagine"
+
+#: inc/function.php:750
+msgid "Select a image to upload"
+msgstr "Seleziona un'immagine da caricare"
+
+#: inc/function.php:661
+msgid "Donate"
+msgstr "Donazione"
+
+#: admin/admin-pvn-google-map-option.php:209
+msgid "Fields to display in tooltip"
+msgstr "Campi visualizzati nel tooltip"
+
+#: admin/admin-pvn-google-map-option.php:200
+msgid "Streetview"
+msgstr "Vista strada"
+
+#: admin/admin-pvn-google-map-option.php:191
+msgid "Scrollwheel zoom"
+msgstr "Zoom a scorrimento"
+
+#: admin/admin-pvn-google-map-option.php:137
+msgid "Initial zoom"
+msgstr "Zoom iniziale"
+
+#: admin/admin-pvn-google-map-manage.php:113
+msgid "Create new map"
+msgstr "Crea una nuova mappa"
+
+#: admin/admin-pvn-google-map-manage.php:102
+msgid "Copy"
+msgstr "Copia"
+
+#: admin/admin-pvn-google-map-manage.php:91
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: admin/admin-pvn-google-map-manage.php:90
+msgid "Map Name"
+msgstr "Nome Mappa"
+
+#: admin/admin-pvn-google-map-manage.php:85
+msgid "Manage Map"
+msgstr "Gestione mappa"
+
+#: admin/admin-pvn-google-map-manage.php:76
+msgid "Your map been deleted."
+msgstr "La tua mappa è stata cancellata"
+
+#: admin/admin-pvn-google-map-manage.php:26
+msgid "Untitled map"
+msgstr "Mappa senza titolo"
+
+#. Author of the plugin/theme
+msgid "Pawan Developers"
+msgstr "Pawan Developers"
+
+#. Description of the plugin/theme
+msgid "Easily create multiple markers on a google map !"
+msgstr "Facile creazione di più marcatori su una mappa di Google!"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://www.houstondirectauto.com/"
+msgstr "https://www.houstondirectauto.com/"
+
+#: inc/function.php:598
+msgid "Do you confirm the suppression of the marker ?"
+msgstr "Confermi la cancellazione del marker?"
+
+#: inc/function.php:583 inc/function.php:600
+msgid "Confirm"
+msgstr "Conferma"
+
+#: inc/function.php:582 inc/function.php:599
+msgid "Cancel"
+msgstr "Cancella"
+
+#: inc/function.php:581
+msgid "Do you confirm the suppression of the map ?"
+msgstr "Confermi la cancellazione della mappa?"
+
+#: inc/function.php:567
+msgid "Your marker been created."
+msgstr "Il tuo marcatore è stato creato."
+
+#: inc/function.php:224
+msgid "Help PVN Google Map"
+msgstr "Aiuto PVN Google Map"
+
+#: admin/admin-pvn-google-map-settings.php:37
+msgid "Google API"
+msgstr "API Google"
+
+#. Plugin Name of the plugin/theme
+#: inc/function.php:221
+msgid "PVN Google Map"
+msgstr "PVN Google Map"
+
+#: inc/function.php:102
+msgid "Constructed in 1889 as the entrance to the 1889 World's Fair, it was initially criticized by some of France's leading artists and intellectuals for its design, but it has become a global cultural icon of France..."
+msgstr "Costruita nel 1889 per l'Esposizione Universale del 1889, è stata inizialmente criticata da alcuni dei più importanti artisti e intellettuali Francesi per il suo design, ma è diventata un'icona culturale della Francia ..."
+
+#: inc/function.php:101
+msgid "Eiffel Tower"
+msgstr "Torre Eiffel"
+
+#: inc/function.php:54
+msgid "Example map"
+msgstr "Esempio Mappa"
+
+#: admin/admin-pvn-google-map.php:319
+msgid "Add"
+msgstr "Aggiungi"
+
+#: admin/admin-pvn-google-map-manage.php:106
+#: admin/admin-pvn-google-map.php:248
+msgid "Delete"
+msgstr "Cancella"
+
+#: admin/admin-pvn-google-map-manage.php:105
+#: admin/admin-pvn-google-map.php:247
+msgid "Edit"
+msgstr "Modifica"
+
+#: admin/admin-pvn-google-map.php:170
+msgid "Action"
+msgstr "Azione"
+
+#: admin/admin-pvn-google-map.php:169 admin/admin-pvn-google-map.php:317
+msgid "Longitude"
+msgstr "Longitudine"
+
+#: admin/admin-pvn-google-map.php:168 admin/admin-pvn-google-map.php:316
+msgid "Latitude"
+msgstr "Latitudine"
+
+#: admin/admin-pvn-google-map.php:124
+msgid "Marker"
+msgstr "Marcatore"
+
+#: admin/admin-pvn-google-map.php:113
+msgid "Management marker"
+msgstr "Gestisci Marcatore"
+
+#: admin/admin-pvn-google-map.php:86
+msgid "Your marker been edited."
+msgstr "Il tuo marcatore è stato creato."
+
+#: admin/admin-pvn-google-map.php:39
+msgid "Your marker been deleted."
+msgstr "Il tuo marcatore è stato cancellato."
+
+#: admin/admin-pvn-google-map-option.php:253
+msgid "Save options"
+msgstr "Salva opzioni"
+
+#: admin/admin-pvn-google-map-option.php:218
+#: admin/admin-pvn-google-map.php:164 admin/admin-pvn-google-map.php:312
+msgid "Web link"
+msgstr "Link sito web"
+
+#: admin/admin-pvn-google-map-option.php:217
+#: admin/admin-pvn-google-map.php:157 admin/admin-pvn-google-map.php:305
+msgid "Phone"
+msgstr "Telefono"
+
+#: admin/admin-pvn-google-map-option.php:216
+#: admin/admin-pvn-google-map.php:150 admin/admin-pvn-google-map.php:298
+msgid "Address"
+msgstr "Indirizzo"
+
+#: admin/admin-pvn-google-map-option.php:215
+#: admin/admin-pvn-google-map.php:143 admin/admin-pvn-google-map.php:291
+msgid "Description"
+msgstr "Descrizione"
+
+#: admin/admin-pvn-google-map-option.php:214
+#: admin/admin-pvn-google-map.php:136 admin/admin-pvn-google-map.php:284
+msgid "Title"
+msgstr "Titolo"
+
+#: admin/admin-pvn-google-map-option.php:213
+#: admin/admin-pvn-google-map.php:129
+msgid "Image"
+msgstr "Immagine"
+
+#: admin/admin-pvn-google-map-option.php:155
+msgid "Initial longitude"
+msgstr "Longitudine iniziale"
+
+#: admin/admin-pvn-google-map-option.php:146
+msgid "Initial latitude"
+msgstr "Latitudine iniziale"
+
+#: admin/admin-pvn-google-map-option.php:164
+msgid "Map type"
+msgstr "Tipo Mappa"
+
+#: admin/admin-pvn-google-map-option.php:124
+msgid "Width"
+msgstr "Larghezza"
+
+#: admin/admin-pvn-google-map-option.php:111
+msgid "Height"
+msgstr "Altezza"
+
+#: admin/admin-pvn-google-map-option.php:102
+msgid "Map name"
+msgstr "Nome Mappa"
+
+#: admin/admin-pvn-google-map-option.php:88
+msgid "Map option"
+msgstr "Opzione Mappa"
+
+#: admin/admin-pvn-google-map-option.php:66
+msgid "Your options have been saved."
+msgstr "La tua opzione è stata salvata"
+
+#: admin/admin-pvn-google-map-help.php:15
+msgid "To use the plugin simply insert your shortcode into post or page."
+msgstr "Per usare il plugin è sufficiente inserire lo shortcode in un articolo o pagina."
+
+#: admin/admin-pvn-google-map-help.php:8 inc/function.php:224
+msgid "Help"
+msgstr "Aiuto"
+
+#: admin/admin-pvn-google-map-settings.php:62
+msgid "Save"
+msgstr "Salva"
+
+#: admin/admin-pvn-google-map-settings.php:52
+msgid "Google API key"
+msgstr "Chiave API Google"
+
+#: admin/admin-pvn-google-map-settings.php:47
+msgid "(English = en) , (French=fr) , (Russian=ru) , ..."
+msgstr "(Inglese = en) , (Francese = fr) , (Russo = ru) , ..."
+
+#: admin/admin-pvn-google-map-option.php:71
+#: admin/admin-pvn-google-map-settings.php:30
+#: admin/admin-pvn-google-map.php:94
+msgid "Error in the form."
+msgstr "Errore nel modulo."
+
+#: admin/admin-pvn-google-map-settings.php:25
+msgid "Your changes have been saved."
+msgstr "Le tue modifiche sono state salvate."
